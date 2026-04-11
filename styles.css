@@ -1,0 +1,21 @@
+#Profile{
+    background-color: rgb(22, 181, 181);
+}
+#Experience{
+    background-color: rgb(51, 172, 131);
+}
+#Education{
+    background-color: rgb(154, 123, 85);
+}
+#Hobbies{
+    background-color: rgb(133, 90, 173);
+}
+span{
+    background-color: rgb(108, 191, 163);
+}
+body{
+    background-color: rgb(150, 98, 98);
+}
+img{
+    position: relative;
+}
