@@ -1,21 +1,33 @@
-#Profile{
-    background-color: rgb(22, 181, 181);
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
 }
-#Experience{
-    background-color: rgb(51, 172, 131);
+
+a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: blue;
 }
-#Education{
-    background-color: rgb(154, 123, 85);
+
+a:hover {
+  text-decoration: underline;
 }
-#Hobbies{
-    background-color: rgb(133, 90, 173);
+
+h1 {
+  text-align: center;
+  color: rgb(35, 22, 175);
 }
-span{
-    background-color: rgb(108, 191, 163);
+
+img {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+  height: auto;
 }
-body{
-    background-color: rgb(150, 98, 98);
-}
-img{
-    position: relative;
+
+p {
+  max-width: 800px;
+  margin: 10px auto;
+  line-height: 1.6;
 }
